@@ -6,7 +6,7 @@
 
  * @format: Formatted string in which to print the arguments
 
- * @i: take a parameter.
+ * @i: takes a parameter.
 
  * Return: Flags:
 
